@@ -1,0 +1,25 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/App.css
+#	modified:   src/App.js
+#
+# Untracked files:
+#	db.json
+#	src/EdituserForm.js
+#	src/Form.css
+#	src/Form.js
+#	src/Header.css
+#	src/Home.css
+#	src/Home.js
+#	src/TableData.js
+#	src/db.json
+#	src/images/
+#

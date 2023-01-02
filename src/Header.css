@@ -1,0 +1,12 @@
+.tableform {
+    width: 90%;
+    margin-left: 5%;
+}
+
+th {
+    text-align: center;
+}
+
+Button {
+    margin: 5px;
+}
